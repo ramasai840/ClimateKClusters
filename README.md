@@ -17,3 +17,7 @@ Below is the data format of the global temperature from 1950 to 2022,
 
 
 <img width="633" alt="Screen Shot 2023-12-23 at 11 28 15 PM" src="https://github.com/ramasai840/ClimateKClusters/assets/66384225/6a2b5bda-1be6-419e-b571-710e9e2af5cc">
+
+
+Animation of Resultant Maps:
+![kMeans](https://github.com/ramasai840/ClimateKClusters/assets/66384225/cfa580f2-9476-49fc-9d6d-1a61f2594633)
