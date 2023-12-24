@@ -21,3 +21,5 @@ Below is the data format of the global temperature from 1950 to 2022,
 
 Animation of Resultant Maps:
 ![kMeans](https://github.com/ramasai840/ClimateKClusters/assets/66384225/cfa580f2-9476-49fc-9d6d-1a61f2594633)
+
+1950 Global Climate Deviations Map: Illustrated here are the outcomes of the k-means clustering analysis on the worldwide temperature deviations for 1950. Geographic coordinates are marked by dots, with their coloration signifying the cluster categorization correlated with the temperature variance. The spectrum of color from cool blue to warm red denotes the range of anomalies, blue for temperatures below, and red for temperatures above the long-term average. This clustering highlights geographic patterns in temperature changes, essential for understanding climate variations. A color gradient bar to the right serves as a key to the anomalies, and the continental outlines provide spatial context. The contrasting striped overlay aids in differentiating the areas of temperature anomalies for enhanced visual clarity.
